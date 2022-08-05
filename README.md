@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poryaei)](https://github.com/Poryaei/github-readme-stats)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Poryaei&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Poryaei&theme=midnight-purple&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poryaei&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/Poryaei/github-readme-stats)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Poryaei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+)
 <!--
 **Poryaei/Poryaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
